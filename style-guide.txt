@@ -1,2 +1,2 @@
-camelCase or underscore_spacing or hyphen-spacing?
+styleGuide or style-guide or style_guide
 tabs or spaces?
